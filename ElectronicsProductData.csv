@@ -199,7 +199,6 @@ ID Produit,Type de Produit,Marque,Prix de Vente (en $),Quantité Vendue,Date de 
 198,PC,Lenovo,970,45,2021-07-05,17,52150
 199,Tablette,Lenovo,1500,30,2021-08-10,25,45000
 200,Smartphone,Huawei,900,75,2021-09-18,21,67500
-ID Produit,Type de Produit,Marque,Prix de Vente (en $),Quantité Vendue,Date de Vente,Marge Bénéficiaire (%),Chiffre d'Affaires (en $)
 201,PC,Lenovo,820,50,2021-01-15,20,41000
 202,Smartphone,Samsung,720,80,2021-02-25,25,57600
 203,Tablette,Apple,1180,30,2021-03-28,30,35400
