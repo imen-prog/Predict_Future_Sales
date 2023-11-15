@@ -1,4 +1,4 @@
-ID Produit,Type de Produit,Marque,Prix de Vente (en $),Quantité Vendue,Date de Vente,Marge Bénéficiaire (%),Chiffre d'Affaires (en $)
+ID Produit,Type de Produit,Marque,Prix de Vente (en DT),Quantité Vendue,Date de Vente,Marge Bénéficiaire (%),Chiffre d'Affaires (en DT)
 1,PC,Lenovo,800,50,2021-01-05,20,40000
 2,Smartphone,Samsung,700,80,2021-02-15,25,56000
 3,Tablette,Apple,1200,30,2021-03-20,30,36000
